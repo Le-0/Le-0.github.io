@@ -1,2 +1,2 @@
-# Le-O.github.io
+# Le-0.github.io
 Curriculum + Site Incoming
