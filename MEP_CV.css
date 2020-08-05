@@ -4,11 +4,6 @@ html {height: 100%;}
 
 body {
 	font-family: 'Open Sans', sans-serif;
-	background-image: url("Illu.png");
-	background-repeat: no-repeat;
-	background-position: bottom;
-	background-attachment: fixed;
-	background-size: contain;
 }
 
 header {
@@ -37,6 +32,12 @@ main {
 	justify-content: space-between;
 	margin: 0; 
 	font-size: medium;
+	background-image: url("Illu.png");
+	background-repeat: no-repeat;
+	background-position: bottom;
+	background-attachment: scroll;
+	background-size: contain;
+	background-position: bottom;
 }
 
 h1 {
@@ -77,10 +78,7 @@ a {
 }
 
 #center_void {
-	height: 50%;
-	width: 40%;
-	margin: 0px;
-	padding: 0px;
+	
 	display: flex;
 	justify-content: center;
 }
