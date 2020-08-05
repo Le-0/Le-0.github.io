@@ -38,6 +38,7 @@ main {
 	background-attachment: scroll;
 	background-size: contain;
 	background-position: bottom;
+	position: relative;
 }
 
 h1 {
